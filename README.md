@@ -1,6 +1,6 @@
 # admin_quickart
 
-A new Flutter project.
+Qucikart admin setup
 
 ## Getting Started
 
