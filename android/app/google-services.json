@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "998838472353",
+    "firebase_url": "https://qucikart1-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "qucikart1",
+    "storage_bucket": "qucikart1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998838472353:android:77b6d6bcbb8cd908ac6ae0",
+        "android_client_info": {
+          "package_name": "com.admin_quickart.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCPFq1CY9yoI4ZdIfzQHlfkQVaOCwztro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998838472353:android:3cbaa0f579d816c5ac6ae0",
+        "android_client_info": {
+          "package_name": "com.example.quickart_proj"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCPFq1CY9yoI4ZdIfzQHlfkQVaOCwztro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
